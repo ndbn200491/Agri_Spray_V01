@@ -1,0 +1,20 @@
+Date and Time : 01/26/18 17:39:18
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N_SUSPEND_USB 
+                    SCHEMATIC1, PAGE05 - USB BRIDGE  (88.90, 58.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections RXD1 
+                    SCHEMATIC1, PAGE05 - USB BRIDGE  (73.66, 88.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_DETECT 
+                    SCHEMATIC1, PAGE05 - USB BRIDGE  (45.72, 180.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections TXD1 
+                    SCHEMATIC1, PAGE05 - USB BRIDGE  (73.66, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections VUSB 
+                    SCHEMATIC1, PAGE05 - USB BRIDGE  (58.42, 132.08) 
+
+Checking For Unconnected Bus Nets
