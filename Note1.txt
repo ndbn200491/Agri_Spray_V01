@@ -1,2 +1,3 @@
 nguyen G=Duy Bang Push with commit
 nguyen duy bang check commit
+chnge to new branch: bangchecked_branch
